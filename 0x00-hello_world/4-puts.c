@@ -6,7 +6,7 @@
 
 /**
  * main - Print	"Programing is like builidng a multilingual
- * 		puzzle, followed by a newline.
+ * puzzle, followed by a newline.
  *
  * Return: Always 0.
  */
