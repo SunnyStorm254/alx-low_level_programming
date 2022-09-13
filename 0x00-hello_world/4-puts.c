@@ -5,8 +5,8 @@
 #include <stdio.h>
 
 /**
- * main - Prints	"Programing is like builidng a multilingual
- * 			puzzle, followed by a newline.
+ * main - Print	"Programing is like builidng a multilingual
+ * 		puzzle, followed by a newline.
  *
  * Return: Always 0.
  */
